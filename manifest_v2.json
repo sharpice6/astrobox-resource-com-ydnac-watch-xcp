@@ -1,0 +1,85 @@
+{
+  "item": {
+    "id": "com.ydnac.watch.xcp",
+    "restype": "quick_app",
+    "name": "小丑牌",
+    "description": "什么？传统卡牌太无聊？你说你玩腻了扑克？来试试全新的《小丑牌》吧！\n\n🎴 卡牌肉鸽，越打越上头\n打出指定牌型赚筹码，突破小盲、大盲、Boss盲等递增难度关卡；小丑牌是核心机制，独特效果搭配DRINK牌、塔罗牌等道具，构筑无限策略组合。\n\n🃏 小丑牌持续扩充，套路百花齐放\n肥嘟嘟、奶娃、牛来、野生狗奶、烧心、MJ、低音炮、低调黑客、在杰难逃、嘉豪、买瓜者、魔丸等小丑牌陆续登场；新增魔术、浮雕牌组，支持小丑牌顺序调整，商店DRINK与小丑牌刷新比例也已优化。\n\n🔮 塔罗与卡包，构筑更自由\n塔罗牌扩充并加入图鉴与卡包，强化扑克牌、抽奖者、灵珠、百万英镑等卡牌丰富选择；小酌、畅饮、霸王桶、赌徒、赌怪、赌神等卡包加入，收藏进度预览、稀有度与价格调整、彩绘牌组问题修复，让收集与构筑更顺滑。\n\n🏷️ 跳过盲注也有收获\n标签系统大更新，跳过盲注可获得标签，近20种标签可收集，路线选择更有取舍。\n\n😀 新手也能大杀四方\n即使不是扑克爱好者也能享受乐趣，内置新手向导手把手教学；通关分数与关卡奖励持续调整，“挚爱”Boss盲注加入，底注8无法通关等问题已修复。\n\n👚 手绘动效+热梗小丑牌\n丰富手绘素材与动效，小丑牌、DRINK牌以大家熟悉的热梗呈现，如雨姐、坤坤、奶浓等，机制更好记，氛围更欢乐。\n\n游戏需要通过同步器激活\n交流群：839861515\n进群密码：会",
+    "preview": [
+      "media/mbp-2026-05-03-13-21-07.png",
+      "media/mbp-2026-05-03-13-18-07.png",
+      "media/mbp-2026-05-03-13-19-46.png",
+      "media/mb9-2026-05-03-13-24-23.png",
+      "media/mb9-2026-05-03-13-25-00.png",
+      "media/mb9-2026-05-03-13-25-36.png",
+      "media/小丑牌_声明.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/小丑牌.png",
+    "author": [
+      {
+        "name": "YGAME",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "购买链接",
+      "url": "https://ifdian.net/item/417a690646be11f1a1ad5254001e7c00",
+      "icon": "globe"
+    },
+    {
+      "title": "同步器下载",
+      "url": "https://spas.lanzouw.com/s/ygame",
+      "icon": "download"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "2.4.0",
+      "file_name": "downloads/小丑牌2.4.0(红米56).rpk",
+      "versionCode": 10
+    },
+    "xmrw6": {
+      "version": "2.4.0",
+      "file_name": "downloads/小丑牌2.4.0(红米56).rpk",
+      "versionCode": 10
+    },
+    "xmb10": {
+      "version": "2.4.0",
+      "file_name": "downloads/小丑牌2.4.0(米环10).rpk",
+      "versionCode": 10
+    },
+    "xmb10nfc": {
+      "version": "2.4.0",
+      "file_name": "downloads/小丑牌2.4.0(米环10).rpk",
+      "versionCode": 10
+    },
+    "xmb10p": {
+      "version": "2.4.0",
+      "file_name": "downloads/小丑牌2.4.0(米环9Pro).rpk",
+      "versionCode": 10
+    },
+    "xmb11": {
+      "version": "2.4.0",
+      "file_name": "downloads/小丑牌2.4.0(米环10).rpk",
+      "versionCode": 10
+    },
+    "xmb11nfc": {
+      "version": "2.4.0",
+      "file_name": "downloads/小丑牌2.4.0(米环10).rpk",
+      "versionCode": 10
+    },
+    "xmb9": {
+      "version": "2.4.0",
+      "file_name": "downloads/小丑牌2.4.0(米环9).rpk",
+      "versionCode": 10
+    },
+    "xmb9p": {
+      "version": "2.4.0",
+      "file_name": "downloads/小丑牌2.4.0(米环9Pro).rpk",
+      "versionCode": 10
+    }
+  },
+  "ext": {}
+}
